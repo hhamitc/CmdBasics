@@ -40,14 +40,14 @@ C:\Windows>
 ### cd..
 Bir üst dizine çıkar.
 ```
-C:\Users\KodluYorum\Desktop>cd..
-C:\Users\KodluYorum>
+C:\Users\Kullanici\Desktop>cd..
+C:\Users\Kullanici>
 ```
 
 ### cd\
 Kök dizine gider.
 ```
-C:\Users\KodluYorum\Desktop>cd\
+C:\Users\Kullanici\Desktop>cd\
 C:\>
 ```
 
@@ -66,7 +66,7 @@ echo merhaba dünya > notlarım.txt
 ### more
 Bir metin dosyasının içeriğini gösterir.
 ```
-C:\Users\KodluYorum\Desktop>more notlarım.txt
+C:\Users\Kullanici\Desktop>more notlarım.txt
 merhaba dünya
 ```
 
